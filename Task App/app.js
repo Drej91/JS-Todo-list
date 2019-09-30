@@ -20,8 +20,6 @@ function loadEventListeners(){
     clearBtn.addEventListener('click', clearTasks);
     //Filter tasks event
     filter.addEventListener('keyup', filterTasks);
-    
-    alert("Danas je divan dan, zar ne Aleks?")
 
 }
 
